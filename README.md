@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brovdivitalii
+- 👀 I’m interested in qa testing
+- 🌱 I’m currently learning vue js, php, c#
